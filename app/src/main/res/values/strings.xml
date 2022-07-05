@@ -3,4 +3,5 @@
     <string name="txt_simulate">Botão de simulação</string>
     <string name="x">X</string>
     <string name="cd_home_team" />
+    <string name="error_api">unexpected error</string>
 </resources>

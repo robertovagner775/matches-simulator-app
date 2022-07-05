@@ -1,11 +1,9 @@
-package me.dio.simulator
+package me.dio.simulator.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import me.dio.simulator.R
 import me.dio.simulator.databinding.ActivityDetailBinding
-import me.dio.simulator.databinding.ActivityMainBinding
-
-
 
 
 class detailActivity : AppCompatActivity() {
